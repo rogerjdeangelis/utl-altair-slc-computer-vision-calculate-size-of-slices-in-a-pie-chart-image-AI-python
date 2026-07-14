@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_pie_color_freq",
+  "source_file": "utl-altair-slc-computer-vision-calculate-size-of-slices-in-a-pie-chart-image-AI-python.sas",
+  "source_blob_sha": "b58209b6486ffb39fa2fddb5c60876547545168f",
+  "source_commit": "9b69b985d6e6fc522aef4d402a6f21d2da320f1f",
+  "notes": "Pie-slice color analysis. Original reads pie3.png via PROC PYTHON (PIL getcolors) on a Windows path and imports the top-30 (pixel,(R,G,B)) tuples into WORK.COLORS; this bundle seeds WORK.COLORS from those exact tuples documented in the source's 'OUTPUT FROM PYTHON' listing, then runs the original PROC FORMAT + DATA step (hex2 RGB->CX code mapping) + PROC FREQ unchanged. Reproduces the recorded pixel frequencies BLUE 54530 / GREEN 18655 / RED 36577."
+}
