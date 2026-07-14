@@ -1,0 +1,19 @@
+                                                   The FREQ Procedure
+
+Table of color by colors
+
+color    colors      Frequency    Percent    Cumulative    Cumulative
+                                              Frequency       Percent
+-------------------------------------------------------------
+BLUE     CX0000FF        54530     49.68         54530        49.68
+BLUE     CX00FF00            0      0.00         54530        49.68
+BLUE     CXFF0000            0      0.00         54530        49.68
+GREEN    CX0000FF            0      0.00         54530        49.68
+GREEN    CX00FF00        18655     17.00         73185        66.68
+GREEN    CXFF0000            0      0.00         73185        66.68
+RED      CX0000FF            0      0.00         73185        66.68
+RED      CX00FF00            0      0.00         73185        66.68
+RED      CXFF0000        36577     33.32        109762       100.00
+
+Total Frequency = 109762
+
